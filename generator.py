@@ -54,18 +54,8 @@ def pass_generate(num,size):
     
     
 res = pass_generate(5,10)
-# print('password')
+
 print(res)
 
     
-# s = 'foo'
-# s += 'bar'
-# print(s)
 
-# l = []
-# l.append('foo')
-# l.append('bar')
-# l.append('baz')
-
-# s = ''.join(l)
-    
