@@ -20,7 +20,7 @@ Project is created with:
 
 - python: 3.8.4
 
-## CodeExamples
+## Code Idea
 
 ### 1 prepare lowercase, uppercase and numbers
 
